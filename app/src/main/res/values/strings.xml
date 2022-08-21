@@ -3,4 +3,5 @@
     <string name="delete_button_description">Delete button</string>
     <string name="decrease_button_description">Decrease button</string>
     <string name="increase_button_description">Increase button</string>
+    <string name="button_to_add_items_to_shop_description">Button to add itens to shop</string>
 </resources>

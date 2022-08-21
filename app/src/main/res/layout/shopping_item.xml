@@ -47,7 +47,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/ivPlus"
         app:layout_constraintTop_toBottomOf="@+id/tvQuantity"
-        app:srcCompat="@drawable/remove_circle"
+        app:srcCompat="@drawable/decrease"
         android:contentDescription="@string/decrease_button_description" />
 
     <ImageView
@@ -58,7 +58,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvQuantity"
-        app:srcCompat="@drawable/add_circle"
+        app:srcCompat="@drawable/increase"
         android:contentDescription="@string/increase_button_description" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
